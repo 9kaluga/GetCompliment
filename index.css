@@ -1,8 +1,27 @@
-h1{
-	font-size:25;
+body {
+  	font-family: "Montserrat", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 800;
+  	font-style: normal;
+}
+
+h1 {
+	font-size:45;
 	color:red;
 }
 
-.output{
-	color:red;
+a {
+	font-size:25;
+	color:seagreen;
+}
+
+p {
+	font-size:15;
+	margin-bottom:15;
+}
+
+
+.output {
+	color:lightblue;
+	font-size:25;
 }
