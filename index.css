@@ -16,12 +16,14 @@ a {
 }
 
 p {
+	text-align:center;
 	font-size:15;
 	margin-bottom:15;
 }
 
 
 .output {
+	text-align:center;
 	color:lightblue;
 	font-size:25;
 }
